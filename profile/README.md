@@ -1,7 +1,5 @@
-## Hey there!
+# Next Generation Virtual Patient Engine for Clinical Translation of Drug Candidates
 
-We are a research team at [BioMed X GmbH](https://bio.mx/) in Heidelberg, Germany. Our goal is to develop a versatile computational platform that can predict the efficacy of first- or best-in-class drug candidates in virtual patient populations at an unprecedented accuracy, thereby addressing one of the most critical bottlenecks of the pharmaceutical industry today: a 90% failure rate of new drug candidates during clinical development.
-
-In partnership with [Sanofi](https://www.sanofi.de/), we will develop innovative artificial intelligence methods to build the virtual patient platform.
+The goal of [team VPE](https://bio.mx/research-teams/artificial-intelligence/team-vpe/) is to develop a versatile computational platform that can predict the efficacy of first- or best-in-class drug candidates in virtual patient populations at an unprecedented accuracy, thereby addressing one of the most critical bottlenecks of the pharmaceutical industry today: a 90% failure rate of new drug candidates during clinical development. In partnership with [Sanofi](https://www.sanofi.de/), the VPE team will develop innovative artificial intelligence methods to build the virtual patient platform. As a proof-of-concept, the initial platform will focus on chronic immune-mediated diseases such as atopic dermatitis (AD) and inflammatory bowel disease (IBD), where new medication that can address patient heterogeneity is needed.
 
 If this excites you, feel free to reach out to us for potential collaborations and discussions!
